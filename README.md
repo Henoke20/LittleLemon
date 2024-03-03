@@ -1,5 +1,5 @@
 # LittleLemon
 
-##/restaurant/
-##/restaurant/menu/
-##/restaurant/menu/2
+/restaurant/
+/restaurant/menu/
+/restaurant/menu/2
