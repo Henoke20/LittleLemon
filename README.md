@@ -1,5 +1,5 @@
 # LittleLemon
 
-/restaurant/
-/restaurant/menu/
+/restaurant/ <br />
+/restaurant/menu/ <br />
 /restaurant/menu/2
